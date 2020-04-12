@@ -1,2 +1,0 @@
-# numerator
-Created with CodeSandbox
